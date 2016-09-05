@@ -46,7 +46,7 @@
         android:layout_height="0dp"
         android:layout_gravity="center"
         android:layout_weight="1"
-        android:text="Log in as Guest"
+        android:text="Log in as Guest!"
         android:textAlignment="center"/>
     <in.championswimmer.libsocialbuttons.fabs.FABFacebook
         android:layout_width="wrap_content"
